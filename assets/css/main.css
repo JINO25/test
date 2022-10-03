@@ -131,7 +131,7 @@ img {
   min-height: 660px;
 }
 #body .header div a {
-  background: url(/assets/images/icons.png) no-repeat 0 -128px;
+  background: url(../images/icons.png) no-repeat 0 -128px;
   position: absolute;
   display: inline-block;
   color: #ffffff;
@@ -306,7 +306,7 @@ img {
 }
 
 #footer .bottom a {
-  background: url(../assets/images/icons.png) no-repeat;
+  background: url(../images/icons.png) no-repeat;
   display: block;
   float: left;
   height: 33px;
