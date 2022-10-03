@@ -306,7 +306,7 @@ img {
 }
 
 #footer .bottom a {
-  background: url(/assets/images/icons.png) no-repeat;
+  background: url(../assets/images/icons.png) no-repeat;
   display: block;
   float: left;
   height: 33px;
