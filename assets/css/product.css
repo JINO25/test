@@ -152,7 +152,7 @@
 }
 
 #footer .text a {
-  background: url(/assets/images/icons.png) no-repeat;
+  background: url(../images/icons.png) no-repeat;
   float: left;
   height: 33px;
   margin: 0 14px;
